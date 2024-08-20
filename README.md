@@ -8,4 +8,8 @@
 
   This project will entirely be carried out on AWS cloud platform.
 
-  Thanks to @tuplespectra (https://www.youtube.com/watch?v=j_skupZ3zw0&t=146s) for guiding
+  Thanks to @tuplespectra (https://www.youtube.com/watch?v=j_skupZ3zw0&t=146s) for guiding.
+
+  Amazon RedShift Query:
+  <img width="1139" alt="image" src="https://github.com/user-attachments/assets/4ea1259c-9858-46bf-b42e-77988b6f17a2">
+
